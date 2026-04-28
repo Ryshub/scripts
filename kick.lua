@@ -1,7 +1,7 @@
 local Players = game:GetService("Players")
 local localPlayer = Players.LocalPlayer
 
-local activarBan = true
+local activarBan = false
 
 local motivo = "Rysted"
 
